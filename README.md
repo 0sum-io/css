@@ -1,5 +1,7 @@
 # CSS Override
 
+Used to override DEX styling.
+
 ## Setup files
 
 - Create a public repo
