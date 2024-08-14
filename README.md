@@ -16,7 +16,7 @@ Used to override DEX styling.
 
 ## Override CSS
 
-- Visit your dex: https://demo.0sum.io/
+- Visit your DEX (https://demo.0sum.io/)
 - Right click > `Inspect Element`
 - Select the DOM you want to edit and make changes.
 - Add the changes to `override.css`
