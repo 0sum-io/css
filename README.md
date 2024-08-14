@@ -10,7 +10,8 @@ Used to override DEX styling.
 
 ## Setup Pages
 
-- Host the files. If you're using github, we recommend github pages.
+- Host the files.
+- If you're using github, we recommend github pages.
 - https://pages.github.com/
 
 ## Override CSS
